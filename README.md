@@ -19,3 +19,8 @@ Has nearly all known symbols.
 https://www.coolsymbol.top/all-symbol.html
 
 Same concept, but click and paste.
+
+# API's
+https://awesome.ecosyste.ms/
+
+Easily accessible public API's

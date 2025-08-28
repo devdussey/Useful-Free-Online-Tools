@@ -6,6 +6,10 @@ https://ezgif.com/
 
 Contains nearly every tool needed for quick gif editing
 
+https://makeemoji.com/
+
+Good for making emojis
+
 # Nice Fonts for Logos, Embeds, etc.
 https://www.flamingtext.com/All-Logos/page2
 
